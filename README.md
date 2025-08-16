@@ -36,7 +36,7 @@ A powerful **Model Context Protocol (MCP) server** that provides intelligent doc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/personal-database-mcp-server.git
+   git clone https://github.com/trngthnh369/personal-database-mcp-server.git
    cd personal-database-mcp-server
    ```
 
@@ -237,14 +237,6 @@ python server.py --test
 - Increase batch size for bulk operations
 - Monitor RAM usage during large dataset processing
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Development Setup
 ```bash
 # Install development dependencies
@@ -273,28 +265,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Alibaba DAMO Academy](https://github.com/FlagOpen/FlagEmbedding) for GTE multilingual embeddings
 - [Hugging Face](https://huggingface.co/) for dataset hosting
 
-## 📞 Support
 
-- **Documentation**: Check this README and inline code comments
-- **Issues**: [GitHub Issues](https://github.com/yourusername/personal-database-mcp-server/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/personal-database-mcp-server/discussions)
-
-## 🗺️ Roadmap
-
-### v0.2.0
-- [ ] Support for additional file formats (PDF, DOCX)
-- [ ] Advanced filtering and faceted search
-- [ ] Multi-language query translation
-- [ ] Performance monitoring dashboard
-
-### v0.3.0
-- [ ] Distributed vector database support
-- [ ] Advanced document preprocessing
-- [ ] Custom embedding model fine-tuning
-- [ ] RESTful API endpoints
-
-### v1.0.0
-- [ ] Production-ready deployment scripts
-- [ ] Enterprise security features
-- [ ] Advanced analytics and reporting
-- [ ] Plugin system for extensibility
